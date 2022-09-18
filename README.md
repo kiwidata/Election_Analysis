@@ -14,4 +14,9 @@ The purpose of the election audit analysis is too make sure all the votes were p
 - The county with the highest turnout
 
 ## Election-Audit Results
+Please find below the result of the audit
+
 ![image](https://user-images.githubusercontent.com/111706055/190929168-7fe93d1a-fed5-4016-b39c-64da38bc1b18.png)
+
+For more information regarding on how the audit was perform, please find the code below as a reference
+
