@@ -1,6 +1,6 @@
 # Election_Analysis
 
-##Overview of Election Audit
+#Overview of Election Audit
 The purpose of the election audit analysis is too make sure all the votes were properly counted to determine the winning candidate. The audit had for mission to give the following information:
 
 - Total number of votes cast
